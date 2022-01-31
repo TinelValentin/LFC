@@ -1,0 +1,11 @@
+3
+a b c
+LCU
+4
+a L b
+b L b
+b C b
+b U c
+a
+1
+c

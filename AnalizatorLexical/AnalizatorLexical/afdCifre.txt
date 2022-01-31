@@ -1,0 +1,27 @@
+10
+a b c d e f g h i j
+CEU+-.
+15
+a C b
+b C b
+b E e
+b . c
+b U h
+c C d
+d U i
+d C d
+d E e
+e + f
+e - f
+e C g
+f C g
+g U j
+g C g
+c
+3
+h i j
+
+
+
+
+

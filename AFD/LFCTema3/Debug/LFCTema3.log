@@ -1,0 +1,28 @@
+﻿  AFD.cpp
+C:\Users\40763\source\repos\LFCTema3\LFCTema3\AFD.cpp(5,29): warning C4305: 'argument': truncation from 'const unsigned int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\40763\source\repos\LFCTema3\LFCTema3\AFD.cpp(5,25): warning C4309: 'argument': truncation of constant value
+C:\Users\40763\source\repos\LFCTema3\LFCTema3\AFD.cpp(6,32): warning C4305: 'argument': truncation from 'const unsigned int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\40763\source\repos\LFCTema3\LFCTema3\AFD.cpp(6,28): warning C4309: 'argument': truncation of constant value
+C:\Users\40763\source\repos\LFCTema3\LFCTema3\AFD.cpp(20,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\40763\source\repos\LFCTema3\LFCTema3\AFD.cpp(33,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\40763\source\repos\LFCTema3\LFCTema3\AFD.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\40763\source\repos\LFCTema3\LFCTema3\AFD.cpp(41,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\40763\source\repos\LFCTema3\LFCTema3\AFD.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\40763\source\repos\LFCTema3\LFCTema3\AFD.cpp(69,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\40763\source\repos\LFCTema3\LFCTema3\AFD.cpp(133,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\40763\source\repos\LFCTema3\LFCTema3\AFD.cpp(139,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\40763\source\repos\LFCTema3\LFCTema3\AFD.cpp(145,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\40763\source\repos\LFCTema3\LFCTema3\AFD.cpp(149,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\40763\source\repos\LFCTema3\LFCTema3\AFD.cpp(154,7): warning C4018: '<': signed/unsigned mismatch
+C:\Users\40763\source\repos\LFCTema3\LFCTema3\AFD.cpp(155,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\40763\source\repos\LFCTema3\LFCTema3\AFD.cpp(166,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\40763\source\repos\LFCTema3\LFCTema3\AFD.cpp(93): warning C4715: 'AFD::accepta': not all control paths return a value
+  LFCTema3.vcxproj -> C:\Users\40763\source\repos\LFCTema3\Debug\LFCTema3.exe

@@ -1,0 +1,3 @@
+﻿  Analyser.cpp
+C:\Users\40763\source\repos\AnalizatorLexical\AnalizatorLexical\Analyser.cpp(205,20): warning C4018: '<': signed/unsigned mismatch
+  AnalizatorLexical.vcxproj -> C:\Users\40763\source\repos\AnalizatorLexical\Debug\AnalizatorLexical.exe

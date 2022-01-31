@@ -1,0 +1,23 @@
+3
+start a finish
+@#$^_:?U
+15
+start @ a
+start # a
+start $ a
+start ^ a
+start _ a
+start : a
+start ? a
+a @ finish
+a # finish
+a $ finish
+a ^ finish
+a _ finish
+a : finish
+a ? finish
+a U finish
+
+start
+1
+finish

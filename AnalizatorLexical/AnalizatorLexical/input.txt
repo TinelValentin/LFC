@@ -1,0 +1,11 @@
+a ="sd 
+int main()
+{
+int a;int b,c; int c;
+a=c;
+b=f;
+d=h;  // comentariu foarte mare
+if(
+@
+}
+}

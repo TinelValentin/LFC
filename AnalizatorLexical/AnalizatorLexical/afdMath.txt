@@ -1,0 +1,19 @@
+8
+start a b c d e f finish
++=/%-*U
+12
+start + a
+start = b
+start / c
+start % d
+start - e
+start * f
+a U finish
+b U finish
+c U finish
+d U finish
+e U finish
+f U finish
+start
+1
+finish

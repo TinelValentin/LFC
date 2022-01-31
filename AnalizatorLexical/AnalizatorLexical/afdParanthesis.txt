@@ -1,0 +1,31 @@
+6
+start a b c d  finish
+(){}U
+24
+start ( a
+start ) b
+start { c
+start } d
+a U finish
+a ( finish
+a ) finish
+a { finish
+a } finish
+b U finish
+b ( finish
+b ) finish
+b { finish
+b } finish
+c U finish
+c ( finish
+c ) finish
+c { finish
+c } finish
+d U finish
+d ( finish
+d ) finish
+d { finish
+d } finish
+start
+1
+finish

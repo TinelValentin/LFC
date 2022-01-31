@@ -1,0 +1,34 @@
+8
+start a b c d e f finish
+",/U;p
+25
+start , a
+start / b
+start ; c
+start p e
+a U finish
+a / finish
+a , finish
+a ; finish
+a " finish
+b / d
+c ; finish
+c , finish 
+c U finish
+c / finish
+c " finish
+d ; finish
+d , finish 
+d U finish
+d / finish
+d " finish
+e ; finish
+e , finish 
+e U finish
+e / finish
+e " finish
+
+
+start
+1
+finish
